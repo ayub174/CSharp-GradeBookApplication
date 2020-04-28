@@ -6,7 +6,7 @@ using System.Transactions;
 
 namespace GradeBook.GradeBooks
 {
-    class StandardGradeBook : BaseGradeBook
+     public class StandardGradeBook : BaseGradeBook
     {
         //Call to the base constructor
         public StandardGradeBook(string name) : base(name)
