@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GradeBook.Enums
 {
-    //enum holds a constant value.
+   
     public enum GradeBookType
     {
         Standard,
